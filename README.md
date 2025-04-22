@@ -7,6 +7,7 @@ A MATLAB-based exploration of image compression using Discrete Fourier Transform
 This project investigates how different compression parameters, such as patch size and thresholding, affect image fidelity, and compares traditional DFT-based compression against a learned transform approach.
 
 **_Key Concepts_**
+
 Digital Signal Processing in the context of 2D signals (images)
 
 Transform coding using DFT and learned orthogonal bases
